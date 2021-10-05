@@ -1,11 +1,11 @@
-# qiankun-main-seeai-vue-template-mobile
+# qiankun-main-seeai-vue-template
 
-恒企SEEAI平台前端项目开发的通用乾坤微服务vue3子应用移动端模板([6+通用模板源PC端主应用](https://gitee.com/xccjh-zjh))，支持微服务多应用。
+恒企SEEAI平台前端项目开发的通用乾坤微服务vue3子应用模板([6+通用模板源](https://gitee.com/xccjh-zjh))，支持微服务多应用。
 
-![](https://xccjhzjh.oss-cn-hongkong.aliyuncs.com/xccjh-images/seeai-template-mobile.gif)
+![](https://xccjhzjh.oss-cn-hongkong.aliyuncs.com/xccjh-images/seeai-tempalte-demo.gif)
 
 ## 技术栈
-[vue3](https://v3.cn.vuejs.org/)+[typescript](https://www.tslang.cn/)+[vant](https://vant-contrib.gitee.io/vant/v3/#/zh-CN/quickstart#fang-shi-yi.-tong-guo-babel-cha-jian-an-xu-yin-ru-zu-jian)+[qiankun](https://qiankun.umijs.org/zh)+ [ckeditor5-xccjh](https://gitee.com/xccjh/ckeditor5-xccjh) + [vue3-theme-peel](https://gitee.com/xccjh/vue3-theme-peel) + 
+[vue3](https://v3.cn.vuejs.org/)+[typescript](https://www.tslang.cn/)+[ant-design-vue](https://2x.antdv.com/components/overview-cn/)+[qiankun](https://qiankun.umijs.org/zh)+ [ckeditor5-xccjh](https://gitee.com/xccjh/ckeditor5-xccjh) + [vue3-theme-peel](https://gitee.com/xccjh/vue3-theme-peel) + 
 [vue3-draggable-drop](https://gitee.com/xccjh/vue3-draggable-drop)
 
 ## 项目运行
@@ -205,6 +205,9 @@ nc相关
 
 ## tag介绍
 + v1.0.0 一键初始化整合乾坤SEEAI通用vue主应用模板
++ v2.0.0 一键初始化后增加了通用后台模板实例
+
+![](https://images.gitee.com/uploads/images/2021/0628/164931_040b76d8_2141437.png)
 
 ## 模板优化点建议
 + 待补充
